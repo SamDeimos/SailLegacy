@@ -1,0 +1,11 @@
+{
+    "name": "samdeimos/sail-legacy",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Santiago Gutierrez",
+            "email": "zam.2014.sg@gmail.com"
+        }
+    ],
+    "require": {}
+}
